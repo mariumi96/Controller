@@ -1,0 +1,3 @@
+/home/mariumi/CLionProjects/controller/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/mariumi/CLionProjects/controller/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/mariumi/CLionProjects/controller/cmake-build-debug/CMakeFiles/controller.dir

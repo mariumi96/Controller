@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/controller.dir/main.cpp.o  -o controller 
